@@ -19,7 +19,10 @@ const PlayVideo = () => {
     const {videoId}=useParams();
     
 
-    
+    const fetchvideoData = async () => {
+        // fetching video data
+        
+    }
     
 
     const fetchOtherData = async () => {
